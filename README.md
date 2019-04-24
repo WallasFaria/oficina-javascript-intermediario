@@ -1,8 +1,8 @@
 # Tópicos
 
 01) [Sobre o Nodejs e instalação](https://github.com/WallasFaria/oficina-javascript-intermediario/tree/master/01-sobre-o-nodejs-e-instalacao)
-02) [Const let]()
-03) [Template string]()
+02) [Const let](https://github.com/WallasFaria/oficina-javascript-intermediario/tree/master/02-const-let)
+03) [Template string](https://github.com/WallasFaria/oficina-javascript-intermediario/tree/master/03-template-string)
 04) [Arrow function e valores padroes]()
 05) [Operacoes em Array]()
 06) [Operadores Rest Spread]()
