@@ -13,7 +13,7 @@ aluno("Bruno"," oitava");
 ```
 
 ```
-Retorno string: O aluno Bruno está na oitava série.
+Retorna: O aluno Bruno está na oitava série.
 ```
 
 ## Multi-linha
@@ -32,17 +32,19 @@ function resumoDaCompra(produto, valor){
         </tr>
       </table>`
 }
+resumoDaCompra('Café', '5,30')
 ```
+
 ```
-Retorno string:
+Retorna:
       <table style='width:100%'>
         <tr>
           <th>Produto</th>
           <th>Valor da Compra</th>
         </tr>
         <tr>
-          <td>${produto}</td>
-          <td>${valor}</td>
+          <td>Café</td>
+          <td>5,30</td>
         </tr>
       </table>
 ```
