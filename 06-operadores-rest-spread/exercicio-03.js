@@ -1,7 +1,7 @@
 /*
 Atribua o nome e preco do produto para duas variáveis
 de mesmo nome, e o restante dos atributos do produto para
-a variável informacoesAdicionais usando o conseito 
+a variável informacoesAdicionais usando o conseito
 aprendido de rest e spread
 */
 
@@ -13,6 +13,8 @@ const produto = {
   quantidade: 29,
   modelo: 'Boladão'
 }
+
+// escreva seu código na linha abaixo:
 
 console.log(nome)
 console.log(preco)

@@ -1,5 +1,5 @@
 /*
-Execute a funçao exibeInformacoesDeContato passando o objeto 
+Execute a funçao exibeInformacoesDeContato passando o objeto
 contato e informando o telefone no momento da chamada da função
 sem alterar o objeto contato
 */
@@ -18,3 +18,5 @@ function exibeInformacoesDeContato(contato) {
     telefone: ${contato.telefone}
     email: ${contato.email}`
 }
+
+// escreva seu código na linha abaixo:
