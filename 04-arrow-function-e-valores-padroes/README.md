@@ -14,8 +14,9 @@ const oldWay = function(name, nickname) {
 console.log( oldWay('James Bond', 'Bond'))
 ```
 
+Retorno:
 ```
-Exibe: My name is Bond, James Bond
+My name is Bond, James Bond
 ```
 
 ### Com Arrow Function
@@ -28,8 +29,9 @@ let newWay = (name, nickname) => {
 console.log( newWay('James Bond', 'Bond') )
 ```
 
+Retorno:
 ```
-Exibe: My name is Bond, James Bond
+My name is Bond, James Bond
 ```
 
 ### Com Arrow Function de maneira curta
@@ -40,8 +42,9 @@ let newWay2 = (name, nickname) => `My name is ${nickname}, ${name}`
 console.log( newWay2('James Bond', 'Bond') )
 ```
 
+Retorno:
 ```
-Exibe: My name is Bond, James Bond
+My name is Bond, James Bond
 ```
 
 # Standard Values
@@ -63,8 +66,9 @@ const add = function (num1, num2) {
 add(12, 32)
 ```
 
+Retorno:
 ```
-Retorna int: 44
+44
 ```
 
 ### Forma nova com Standard Function  
@@ -78,8 +82,9 @@ const add = function (num1 = 0, num2 = 0) {
 add(12, 32)
 ```
 
+Retorno:
 ```
-Retorna int: 44
+44
 ```
 
 ### Forma nova com Arrow Function
@@ -88,6 +93,7 @@ Retorna int: 44
 const add = (num1 = 12, num2 = 32) => num1 + num2;
 ```
 
+Retorno:
 ```
-Retorna int: 44
+44
 ```

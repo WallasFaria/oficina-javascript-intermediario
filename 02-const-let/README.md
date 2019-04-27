@@ -18,8 +18,9 @@ function exibeValor() {
 exibeValor()
 ```
 
+Retorno:
 ```
-Exibe: Retorno let: 10
+Retorno let: 10
 ```
 
 ## Const
@@ -33,10 +34,11 @@ valor = 20;
 console.log('Retorno segundo const: ', valor);
 ```
 
+Retorno:
 ```
-Exibe: 
-
 Retorno const: 10
+```
+```
 /Users/bognar/Documents/Projetos/GitHub/Projetos/blog/JavaScript Variaveis/index.js:25
 valor = 20;
       ^
