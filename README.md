@@ -10,7 +10,7 @@
 07) [Modulos ES6](https://github.com/WallasFaria/oficina-javascript-intermediario/tree/master/09-modulos-es6)
 08) [Operacoes em Array](https://github.com/WallasFaria/oficina-javascript-intermediario/tree/master/05-operacoes-em-array)
 09) [Operadores Rest Spread](https://github.com/WallasFaria/oficina-javascript-intermediario/tree/master/06-operadores-rest-spread)
-10) [Closures]()
+10) [Closures](https://github.com/WallasFaria/oficina-javascript-intermediario/tree/master/10-closures)
 
 ## Parte 2
 11) [Promises]()
