@@ -14,12 +14,12 @@ Acesse a página de download do [NodeJs](https://nodejs.org/en/#download) e baix
 ### Linux
 ```sh
 # distribuições baseadas em debian e ubuntu
-curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
 ```sh
-# RHEL, CentOS, CloudLinux ou Fedora. 
+# RHEL, CentOS, CloudLinux ou Fedora.
 # rode como root
-curl -sL https://rpm.nodesource.com/setup_12.x | bash -
+curl -sL https://rpm.nodesource.com/setup_10.x | bash -
 ```
