@@ -1,6 +1,6 @@
 # Módulos em NodeJS
 
-Módulos são cruciais para construção de aplicações em Node pois eles permitem incluir bibliotecas externas, como bibliotecas de acesso ao banco de dados, e ajudam a organizar seu código em partes separadas com responsabilidades limitadas.
+Módulos são cruciais para construção de aplicações em Node, pois eles permitem incluir bibliotecas externas, como bibliotecas de acesso ao banco de dados, e ajudam a organizar seu código em partes separadas com responsabilidades limitadas.
 
 Utilizar módulos em Node é simples, você usa a função require(), que recebe um argumento: o nome da biblioteca do core ou o caminho do arquivo do módulo que você quer carregar.
 
