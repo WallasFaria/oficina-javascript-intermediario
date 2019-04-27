@@ -2,7 +2,7 @@
 
 Possuem uma sintaxe mais curta comparada a sintaxe de função padrão. Não possui seu próprio this, arguments, super e new.target.
 
-Vejamos aguns exemplos:
+Vejamos alguns exemplos:
 
 ### Sem Arrow Function
 
