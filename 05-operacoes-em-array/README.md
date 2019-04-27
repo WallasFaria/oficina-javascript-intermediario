@@ -1,6 +1,6 @@
 # Operações em Array
 
-## forEach 
+## forEach
 ### Usado para iterar todos os elementos
 
 Vejamos um exemplo:
@@ -13,7 +13,7 @@ numeros.forEach(n => { console.log(n) })
 Exibe: 1 2 3 4 5
 ```
 
-## map 
+## map
 ### Usado para iterar todos os elementos e fazer algo com seus valores
 
 ```js
@@ -81,7 +81,7 @@ Retorna: True
 
 
 ## some
-### Usado para verifica se há pelo menos um elemento que respeita dada condição
+### Usado para verificar se há pelo menos um elemento que respeita dada condição
 
 ```js
 const numeros = [1, 2, 3, 4, 5]
