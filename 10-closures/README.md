@@ -4,15 +4,15 @@ Um closure é uma função interior que tem acesso a variáveis de uma função 
 
 Uma closure tem 3 cadeias de escopo.
 
-### 1) ele tem acesso ao seu próprio escopo 
-### 2) ele tem acesso as variáveis da função exterior
-### 3) tem acesso as variáveis globais
+### 1) Tem acesso ao seu próprio escopo 
+### 2) Tem acesso as variáveis da função exterior
+### 3) Tem acesso as variáveis globais
 
 ### Obs: A função interior tem acesso não somente as variáveis da função exterior, mas também aos parâmetros dela.
 
 Vejamos alguns exemplos:
 
-## Easy
+### Ex: Easy
 
 ```js
 function soma(num1, num2) {
@@ -26,7 +26,7 @@ Retorno:
 60
 ```
 
-## Medium
+### Ex: Medium
 
 ```js
 function soma(num1) {
@@ -42,7 +42,7 @@ Retorno:
 60
 ```
 
-## Hard
+### Ex: Hard
 
 ```js
 function soma(num1) {
@@ -60,7 +60,7 @@ Retorno:
 60
 ```
 
-## Expert
+### Ex: Expert
 
 ```js
 const charmander = () => {
