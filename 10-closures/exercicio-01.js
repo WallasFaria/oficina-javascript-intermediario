@@ -1,4 +1,6 @@
-numeros = [20, 345, 100, 3251, 32, 453, 684, 2521, 425, 94];
+import mostreOs, {numerosMenoresQue, numerosMaioresQue, numerosEntre} from './responsta'
+
+const numeros = [20, 345, 100, 3251, 32, 453, 684, 2521, 425, 94];
 
 mostreOs(
   numerosMenoresQue(100),
