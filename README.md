@@ -13,7 +13,7 @@
 10) [Closures](https://github.com/WallasFaria/oficina-javascript-intermediario/tree/master/10-closures)
 
 ## Parte 2
-11) [Promises]()
+11) [Promises](11-Promises)
 12) [Ajax]()
 13) [Async / Await]()
 14) [Prototype]()
