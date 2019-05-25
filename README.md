@@ -14,6 +14,6 @@
 
 ## Parte 2
 11) [Promises](11-Promises)
-12) [Ajax]()
-13) [Async / Await]()
-14) [Prototype]()
+12) [Ajax](12-Ajax)
+13) [Async / Await](13-AsyncAwait)
+14) [Prototype](14-Prototype)
